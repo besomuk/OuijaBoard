@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2ce3b1d515fc99e4a9d6fd78b9c703da
+timeCreated: 1519364276
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PentaGram?s Stregherria
+  fontNames:
+  - PentaGram?s Stregherria
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

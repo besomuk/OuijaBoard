@@ -1,0 +1,4 @@
+- vesticja ili vesticija?
+- ugradi font kao sa slova
+- "zasto", "zbog cega"
+- izbaci ad na exit
